@@ -1,0 +1,32 @@
+.boton-contenedor {
+  height: 83px;
+  display: flex;
+  /* para destribuir de forma equitativa ancho y altura:
+  El elemento puede crecer (flex-grow: 1) ocupando todo el espacio disponible si es necesario.
+  El elemento puede contraerse (flex-shrink: 1) en caso de que no haya suficiente espacio.
+  El tamaño inicial del elemento es 0 (flex-basis: 0).
+  Este uso común de flex: 1 se utiliza a menudo para que un elemento ocupe todo el espacio disponible tanto como sea posible en un contenedor flexible. */
+  flex: 1 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 38px;
+  background-color: #1b1b32;
+  color: white;
+  border-radius: 25px;
+  border: 2px solid white;
+  margin: 4px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.boton-contenedor:hover {
+  background-color: #5a01a7;
+}
+.operador {
+  background-color: #00471b;
+}
+
+.operador:hover {
+  background-color: #ff6600;
+}
