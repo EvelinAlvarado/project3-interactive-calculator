@@ -21,11 +21,7 @@ Interactive Calculator is a web application developed as part of the FreeCodeCam
 ## Screenshots
 
 <div align="center" >
-  <img src="public/MacBook Pro-1716978240990.jpeg" width="80%" />
-  <br/><br/>
-  <img src="public/iPad-1716978330293.jpeg" width="40%" /> 
-   <br/><br/>
-  <img src="public/iPhone 12 Pro-1716978317349.jpeg" width="20%" /> 
+  <img src="public/project-interactive-calculator.jpg" width="80%" />
 </div>
 
 ## Additional Information
